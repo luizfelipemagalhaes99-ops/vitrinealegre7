@@ -1,3 +1,5 @@
+- **Repositório no GitHub:** https://github.com/luizfelipemagalhaes99-ops/vitrinealegre7
+- **Site Publicado (Vercel):** https://vitrinealegre7.vercel.app
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
